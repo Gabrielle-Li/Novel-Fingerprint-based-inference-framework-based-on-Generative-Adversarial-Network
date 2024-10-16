@@ -1,0 +1,1 @@
+# Novel-Fingerprint-based-inference-framework-based-on-Generative-Adversarial-Network
