@@ -5,3 +5,5 @@ As indoor localization becomes a necessity to provide intelligent location-based
 We propose three problems in this project. The first one is to set up two different APs in one known place. We randomly walk in the room and get different Received Signal Strength in different location to two separate APs. Then we use GAN to generate the localization fingerprint map of the whole room. 
 The second one is to set up one APs in one known room and also get different RSS in our random path. Then we use GAN to generate different fingerprint maps from different APs. 
 The third one is we get the RSS from a known area and its fingerprint map from one settles AP and generate other fingerprint map in other unknown area. 
+
+The technical report is uploaded in the file named 'Report'.
