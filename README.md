@@ -6,4 +6,4 @@ We propose three problems in this project. The first one is to set up two differ
 The second one is to set up one APs in one known room and also get different RSS in our random path. Then we use GAN to generate different fingerprint maps from different APs. 
 The third one is we get the RSS from a known area and its fingerprint map from one settles AP and generate other fingerprint map in other unknown area. 
 
-The technical report is uploaded in the file named 'Report'.
+The technical report is uploaded in the pdf file named 'Report'.
